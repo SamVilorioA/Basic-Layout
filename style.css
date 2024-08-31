@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body, html{
+    height: 100%;
+}
+#main{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100% !important;
+    justify-content: center;
+    align-items: center;
+}
+.header{
+    height: 15%;
+    width: 98%;
+    border: 2px solid red;
+}
+.container{
+    height: 60%;
+    width: 98%;
+    border: 2px solid green;
+}
+footer{
+    height: 20%;
+    width: 98%;
+    border: 2px solid blue;
+}
