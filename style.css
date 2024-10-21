@@ -17,15 +17,15 @@ body, html{
 .header{
     height: 15%;
     width: 98%;
-    border: 2px solid red;
+    border: 2px solid white;
 }
 .container{
     height: 60%;
     width: 98%;
-    border: 2px solid green;
+    border: 2px solid blue;
 }
 footer{
     height: 20%;
     width: 98%;
-    border: 2px solid blue;
+    border: 2px solid black;
 }
